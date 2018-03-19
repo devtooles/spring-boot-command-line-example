@@ -3,7 +3,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.devtooles</groupId>
+    <groupId>com.devtooles.tutorials</groupId>
     <artifactId>spring-boot-command-line-runner-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
@@ -24,7 +24,6 @@
         </dependency>
     </dependencies>
 
-    <!-- Package as an executable jar/war -->
     <build>
         <plugins>
             <plugin>
